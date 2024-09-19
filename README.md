@@ -8,7 +8,7 @@
 
 ### Portfolio
 
-My project portfolio is a compilation of personal projects I have taken on as well as some special work-related challenges I had to overcome.
+My [project portfolio](https://github.com/JonYarber/project_portfolio/tree/main) is a compilation of personal projects I have taken on as well as some special work-related challenges I had to overcome.
 
 <!---
 jonyarber/jonyarber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
