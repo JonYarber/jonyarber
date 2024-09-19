@@ -1,4 +1,4 @@
-## About Me
+### About Me
 
 - 👋 Hi, I’m Jon!  
 - 💼 I am a Data Scientist based in Tampa, FL.
