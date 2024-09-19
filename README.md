@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 - 👋 Hi, I’m Jon!  
 - 💼 I am a Data Scientist based in Tampa, FL.
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning how to use GitHub to build a portfolio of my personal projects.
 - 💞️ I’m looking to collaborate on Kaggle competitions.
 
-# Portfolio
+### Portfolio
 
 Be sure to visit my project portfolio. It is a compilation of personal projects as well as some work-related challenges I had to overcome.
 
