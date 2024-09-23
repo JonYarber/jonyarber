@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Jon!  
 - 💼 I am a Data Scientist based in Tampa, FL.
-- 💻 I work from home as a contractor for the Air Force Medical Command's (AFMEDCOM) Analysis and Studies Division (A9).
+- 💻 I work from home as a contractor for the Air Force Medical Command's (AFMEDCOM) Studies and Analysis Division (A9).
 - 🌱 I’m currently learning how to use GitHub to build a portfolio of my personal projects.
 - 💞️ I’m looking to collaborate on Kaggle competitions.
 
